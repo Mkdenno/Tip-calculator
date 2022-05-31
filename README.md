@@ -30,10 +30,11 @@ As a user of the application,you will be able to :
  ****
  [Go Back to the top](#Tip-calculator)
 ### Live Link
-- Click this link to view the live application https://mkdenno.github.io/movers-website/
+- Click this link to view the live application mkdenno.github.io/tip-calculator/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
+* JavaScript - which was used to add logic to the calculator.
 [Go Back to the top](#Tip-calculator)
 ## Instructions
 * The website is not responsive can only be used on a desktop
