@@ -30,7 +30,7 @@ As a user of the application,you will be able to :
  ****
  [Go Back to the top](#Tip-calculator)
 ### Live Link
-- Click this link to view the live application mkdenno.github.io/tip-calculator/
+- Click this link to view the live application https://mkdenno.github.io/Tip-calculator/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
