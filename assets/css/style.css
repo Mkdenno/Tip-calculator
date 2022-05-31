@@ -13,7 +13,7 @@ body{
     flex-direction: column;
     height: 80vh;
     width:50%;
-    background-color:aqua;
+    background-color:wheat;
     margin-left:35%;
     margin-top: 10%;
       
@@ -57,13 +57,16 @@ header .two{
 }
 .calculate{
     background-color: blue;
-    color: white;
+    color: black;
     font-size: 12px;
     font-weight: 900;
 }
 .reset{
     background-color: red;
-    color: white;
+    color: black;
     font-size: 12px;
     font-weight: 900;
+}
+.calculate:active{
+    cursor: auto;
 }
